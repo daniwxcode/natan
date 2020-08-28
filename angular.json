@@ -23,7 +23,13 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "css/style.css",
+              "css/bootstrap.css",
+              "css/jquery-ui.css",
+              "css/resp.css", 
+              "css/colorbox.css"
+              
             ],
             "scripts": []
           },
